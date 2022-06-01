@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body nav {
+    margin-top: -1px;
+}
+body p {
+    font-family: "Apple Chancery";
+    font-size: 50px;
+    background-color: #DCDFE0;
+    width: 1000px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-top: auto;
+}
+#ppadding {
+    padding-top: 169px;
+}
+#payments {
+    color: #303030;
+    font-size: 40px;
+}
+#payments2 {
+    color: #303030;
+    font-size: 40px;
+}
+#payments3 {
+    color: #303030;
+    font-size: 40px;
+}
+#payments4 {
+    color: #303030;
+    font-size: 40px;
+}
+body footer {
+    width: 100%;
+    height: 70px;
+    color: inherit;
+    background-color: #FFE56A;
+}
+.scents {
+    font-size: 24px;
+    font-family: "Apple Chancery";
+    width: 165px;
+}

@@ -1,0 +1,251 @@
+@charset "UTF-8";
+h1     {
+    color: #ffe56a;
+    font-family: Apple Chancery;
+    font-size: 150px;
+}
+h4 {
+    color: #727761;
+    font-family: Acumin Cariable Concept;
+    font-size: 30px;
+}
+.profile aside {
+    width: 250px;
+    height: 250px;
+    margin-left: 90px;
+    margin-right: 90px;
+    float: left;
+    border-width: medium;
+    border-style: solid;
+    border-radius: 50%;
+	border-color: #727662;
+    margin-top: 90px;
+}
+.profile main {
+    width: 700px;
+    height: 700px;
+    float: left;
+    margin-top: 90px;
+}
+
+.register {
+    margin: auto;
+    width: 210px;
+    text-align: center;
+}
+
+nav {
+    width: 100%;
+    height: 107px;
+    background-color: #FFE56A;
+    position: fixed;
+    margin-left: -8px;
+}
+nav li img {
+    margin-top: -25px;
+    margin-left: -44px;
+}
+nav li{
+    float: left;
+    padding-left: 53px;
+    list-style-type: none;
+    padding-top: 0px;
+    margin-top: 8px;
+    font-size: 39px;
+    width: auto;
+    font-family: "Apple Chancery";
+}
+a {
+	text-decoration: none;
+}
+.login {
+    margin: auto;
+    width: 210px;
+    text-align: center;
+}
+.profileicon {
+    margin-left: 391px;
+    margin-top: -17px;
+}
+body container img {
+    float: left;
+    padding-top: 100px;
+}
+body container h1 {
+    font-size: 100px;
+}
+body container h4 {
+    margin-top: -75px;
+}
+#navbardropdown a{
+	display:block
+}
+style {
+    margin: -44px;
+
+}
+h2 {
+    padding-top: 128px;
+    padding-right: 128px;
+    padding-bottom: 128px;
+    padding-left: 128px;
+    font-size: 51px;
+    /* [disabled]text-align: center; */
+    color: #000000;
+    margin: auto;
+    text-shadow: 0px 0px;
+    border-bottom-width: thin;
+}
+p {
+    text-align: center;
+    padding-top: 67px;
+    padding-right: 67px;
+    padding-bottom: 67px;
+    padding-left: 67px;
+    font-size: 54px;
+    color: #000000;
+}
+footer {
+    background-color: #FFE56A;
+    width: 100%; 
+	height: 67px;
+	position: absolute;
+}
+#servicesh1 {
+    font-size: 54px;
+    color: #551A8B;
+    float: left;
+    width: 100%;
+}
+#d1 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+#d1 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+#d2 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#d2 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+#d4 img {
+}
+#d3 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#d3 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+#d4 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#orderwarning {
+    color: #FF0004;
+    font-size: 15px;
+	font-family: actor, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+#d8 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#d8 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+#d7 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#d7 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+#d6 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#d6 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+#d5 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#d5 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+#d9 {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 69px;
+}
+#d9 img {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+}
+aside {
+    height: 1549px;
+    background-color: #CBA5E1;
+    width: 333px;
+    float: left;
+    margin-top: 102px;
+}
+
+@media screen and (max-width:1024px){
+}
+
+@media tv{
+}
